@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Tim
 
-<!--
-**tim-newbold/tim-newbold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data & Analytics Leader passionate about building scalable, efficient systems and empowering teams through data.
+todo:
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: AI-driven football analytics, a reservation platform for small businesses
+- 🌱 Learning: Advanced Deep Learning, HuggingFace models, and Data Engineering best practices
+- 🧠 Favorite tools: Python, SQL, Flask, Tableau, Power BI, Azure
+- ✍️ Writing about data, career growth, and side projects [on my portfolio](https://your-portfolio-site.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Projects
+
+Here are a few highlights from my portfolio:
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [NFL RB Composite Score](https://github.com/yourname/nfl-rb-score) | Predictive model for RB performance using next-gen stats | Python, SQL, Flask |
+| [Facial Emotion Detection](https://github.com/yourname/facial-emotion-detection) | CNN model trained to detect happy, sad, neutral, and surprise emotions | TensorFlow, Google Colab |
+| [Reservation SaaS App](https://github.com/yourname/reservation-app) | A low-cost reservation app for gyms and trainers | Flask, Stripe API, AWS |
+
+## 📊 GitHub Stats
+
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio Website](https://your-portfolio-site.com)
+- 📧 Email me at: you@example.com
