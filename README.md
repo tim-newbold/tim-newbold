@@ -18,10 +18,6 @@ Here are a few highlights from my portfolio:
 | [Facial Emotion Detection](https://github.com/yourname/facial-emotion-detection) | CNN model trained to detect happy, sad, neutral, and surprise emotions | TensorFlow, Google Colab |
 | [Reservation SaaS App](https://github.com/yourname/reservation-app) | A low-cost reservation app for gyms and trainers | Flask, Stripe API, AWS |
 
-## 📊 GitHub Stats
-
-![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
