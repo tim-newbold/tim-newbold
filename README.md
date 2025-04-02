@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Tim
 
 I'm a Data & Analytics Leader passionate about building scalable, efficient systems and empowering teams through data.
-todo:
 
-- 🔭 Currently working on: AI-driven football analytics, a reservation platform for small businesses
-- 🌱 Learning: Advanced Deep Learning, HuggingFace models, and Data Engineering best practices
-- 🧠 Favorite tools: Python, SQL, Flask, Tableau, Power BI, Azure
-- ✍️ Writing about data, career growth, and side projects [on my portfolio](https://your-portfolio-site.com)
+- 🔭 Currently working on: Azure Certifications, AI Web Applications
+- 🌱 Learning: AI, Machine Learning, Data Engineering & Analytics
+- 🧠 Favorite tools: Python, SQL, Power BI
 
 ## 🔗 Projects
 
@@ -14,12 +12,15 @@ Here are a few highlights from my portfolio:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [NFL RB Composite Score](https://github.com/yourname/nfl-rb-score) | Predictive model for RB performance using next-gen stats | Python, SQL, Flask |
-| [Facial Emotion Detection](https://github.com/yourname/facial-emotion-detection) | CNN model trained to detect happy, sad, neutral, and surprise emotions | TensorFlow, Google Colab |
-| [Reservation SaaS App](https://github.com/yourname/reservation-app) | A low-cost reservation app for gyms and trainers | Flask, Stripe API, AWS |
+| [Facial Emotion Detection](https://github.com/yourname/mit_cnn) | CNN model trained to detect happy, sad, neutral, and surprise emotions | Python, TensorFlow, Google Colab |
+| [SVHN Digit Recognition](https://github.com/yourname/mit_elective) | ANN and CNN Comparison on digit recognition in real world images | Python, TensorFlow, Google Colab | 
+| [Formula One Predictor](https://github.com/yourname/formula-one) | Machine learning, ETL automation, and dashboard visualization to predict Formula 1 | Python, XG Boost, SQL, Power BI |
+| [Food Hub Analysis](https://github.com/yourname/mit_food_hub) | FoodHub Data Analysis – EDA & Business Insights | Python, EDA, Google Colab |
+|Coming Soon! [Nascar Prediction](https://github.com/yourname/nfl-rb-score) | Machine Learning, ETL Automnation and Dashbaord visualization to predict Nascar outcomes | Python, SQL, Power BI |
+|Coming Soon! [NFL Analytics Dashboard](https://github.com/yourname/nfl-rb-score) | Positional Model from  | Python, SQL, Power BI |
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://linkedin.com/in/tim-newbold)
 - 🌐 [Portfolio Website](https://your-portfolio-site.com)
-- 📧 Email me at: you@example.com
+- 📧 Email me at: timothyj.newbold@gmail.com
