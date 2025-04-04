@@ -16,7 +16,7 @@ Here are a few highlights from my portfolio:
 | [SVHN Digit Recognition](https://github.com/tim-newbold/mit_elective) | ANN and CNN Comparison on digit recognition in real world images | Python, TensorFlow, Google Colab | 
 | [Formula One Predictor](https://github.com/tim-newbold/formula-one) | Machine learning, ETL automation, and dashboard visualization to predict Formula 1 | Python, XG Boost, SQL, Power BI |
 | [Food Hub Analysis](https://github.com/tim-newbold/mit_food_hub) | FoodHub Data Analysis – EDA & Business Insights | Python, EDA, Google Colab |
-|Coming Soon!| Machine Learning, ETL Automnation and Dashbaord visualization to predict Nascar outcomes | Python, SQL, Power BI |
+|Coming Soon! Nascar Predictor| Machine Learning, ETL Automnation and Dashbaord visualization to predict Nascar outcomes | Python, SQL, Power BI |
 |Coming Soon! [NFL Analytics Dashboard] | Positional Model from  | Python, SQL, Power BI |
 
 ## 📫 Let's Connect
