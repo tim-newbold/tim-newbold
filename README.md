@@ -22,5 +22,5 @@ Here are a few highlights from my portfolio:
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/tim-newbold)
-- 🌐 [Portfolio Website](https://your-portfolio-site.com)
+- 🌐 [Portfolio Website](https://tim-newbold.com)
 - 📧 Email me at: timothyj.newbold@gmail.com
