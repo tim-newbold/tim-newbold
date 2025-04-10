@@ -17,7 +17,7 @@ Here are a few highlights from my portfolio:
 | [Formula One Predictor](https://github.com/tim-newbold/formula-one) | Machine learning, ETL automation, and dashboard visualization to predict Formula 1 | Python, XG Boost, SQL, Power BI |
 | [Food Hub Analysis](https://github.com/tim-newbold/mit_food_hub) | FoodHub Data Analysis – EDA & Business Insights | Python, EDA, Google Colab |
 |Coming Soon! Nascar Predictor| Machine Learning, ETL Automnation and Dashbaord visualization to predict Nascar outcomes | Python, SQL, Power BI |
-|[NFL Analytics Dashbaord] (https://github.com/tim-newbold/nfl_public) | Positional Model from  | Python, SQL, Power BI |
+| [NFL Analytics Dashbaord](https://github.com/tim-newbold/nfl_public) | Positional Model from  | Python, SQL, Power BI |
 
 ## 📫 Let's Connect
 
